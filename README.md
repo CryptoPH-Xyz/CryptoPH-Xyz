@@ -6,10 +6,10 @@ Graduate student in Economics, Fitness enthusiast, Music-lover, an aspiring Bloc
 1. Financial Inclusion (esp in developing countries)
 2. Financial Education
 
-- Currently orking on my Frontend Skills 🖥️
-  1. React
-  2. Next.js
-  3. HTML, CSS, Javascript
+- Currently stack 🖥️
+  1. React, Next.js (Frontend)
+  2. Solidity, Truffle, Ganache (Blockchain)
+  3. CSS, Tailwind CSS (Design)
 - Continuously learning Blockchain / Smart Contract Development ⛓️
 - Eager to contribute to projects involving DApps 👷‍♂️
 - Fun fact: I'm a Business-minded person learning to code ⚡ 
