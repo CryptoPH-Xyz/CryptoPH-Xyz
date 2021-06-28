@@ -17,5 +17,5 @@ Graduate student in Economics, Fitness enthusiast, Music-lover, an aspiring Bloc
 
 ## 📞 Conctact Me
 - [LinkedIn](https://www.linkedin.com/in/xyz-fiegalan-253592136/)
-- Currently using this [Portfolio](https://cryptoph-xyz.github.io/React-Portfolio/)
+- Currently using this [Portfolio](https://cryptoph-xyz.github.io/My-Portfolio/)
 
