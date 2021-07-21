@@ -7,10 +7,10 @@ Graduate student in Economics, Fitness enthusiast, Music-lover, an aspiring Bloc
 2. Financial Education
 
 - Currently stack 🖥️
-  1. React, Next.js (Frontend)
+  1. React, Next.js, Web3.js (Frontend)
   2. Solidity, Truffle, Ganache (Blockchain)
-  3. CSS, Tailwind CSS (Design)
-- Continuously learning Blockchain / Smart Contract Development ⛓️
+  3. CSS, Tailwind CSS, Material UI (Design)
+- Continuously learning Blockchain / Smart Contract Development ⛓️ at [IoTA](https://academy.ivanontech.com/)
 - Eager to contribute to projects involving DApps 👷‍♂️
 - Fun fact: I'm a Business-minded person learning to code ⚡ 
 - A Coffee-addict ☕
